@@ -1,7 +1,7 @@
 
 # **Advanced Lane Lines Finding Project** 
 ***
-This notebook represents project 4 of term 1 of the udacity self driving car nanodegree program. I did use inspiration for this project from this post: https://medium.com/@vivek.yadav/robust-lane-finding-using-advanced-computer-vision-techniques-mid-project-update-540387e95ed3#.l2yuqhqfm
+This notebook represents project 4 of term 1 of the udacity self driving car nanodegree program. In this project again one is supposed to find lanes in an image using computer vision algorithms. I did use inspiration for this project from this post: https://medium.com/@vivek.yadav/robust-lane-finding-using-advanced-computer-vision-techniques-mid-project-update-540387e95ed3#.l2yuqhqfm
 
 **Part 1** Belows cell performs the following steps of the project
 >- Find the camera calibration matrices
